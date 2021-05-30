@@ -1,0 +1,17 @@
+name: squash_wiki
+channels:
+    - defaults
+dependencies:
+    - pip
+    - python
+    - pip:
+        - beautifulsoup4
+        - black
+        - matplotlib
+        - notebook
+        - numpy
+        - pandas
+        - requests
+        - scikit-learn
+        - seaborn
+        - tqdm
