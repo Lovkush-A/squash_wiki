@@ -1,0 +1,241 @@
+,rank,year,player
+0,1,2017, Grégory Gaultier
+1,1,2018, Mohamed El Shorbagy
+2,1,2019, Ali Farag
+3,1,2014, Mohamed El Shorbagy
+4,1,2015, Grégory Gaultier
+5,1,2016, Mohamed El Shorbagy
+6,1,2011, Nick Matthew
+7,1,2012, James Willstrop
+8,1,2013, Ramy Ashour
+9,1,2008, Amr Shabana
+10,1,2009, Karim Darwish
+11,1,2010, Ramy Ashour
+12,1,2005, Thierry Lincou
+13,1,2006, Amr Shabana
+14,1,2007, Amr Shabana
+15,1,2002, Peter Nicol
+16,1,2003, Peter Nicol
+17,1,2004, Lee Beachill
+18,1,1999, Jonathon Power
+19,1,2000, Peter Nicol
+20,1,2001, David Palmer
+21,1,1996, Jansher Khan
+22,1,1997, Jansher Khan
+23,1,1998, Peter Nicol
+24,2,2017, Mohamed El Shorbagy
+25,2,2018, Ali Farag
+26,2,2019, Mohamed El Shorbagy
+27,2,2014, Grégory Gaultier
+28,2,2015, Mohamed El Shorbagy
+29,2,2016, Karim Abdel Gawad
+30,2,2011, James Willstrop
+31,2,2012, Nick Matthew
+32,2,2013, Grégory Gaultier
+33,2,2008, Karim Darwish
+34,2,2009, Grégory Gaultier
+35,2,2010, Nick Matthew
+36,2,2005, James Willstrop
+37,2,2006, David Palmer
+38,2,2007, Ramy Ashour
+39,2,2002, Jonathon Power
+40,2,2003, John White
+41,2,2004, Thierry Lincou
+42,2,1999, Peter Nicol
+43,2,2000, Jonathon Power
+44,2,2001, Peter Nicol
+45,2,1996, Rodney Eyles
+46,2,1997, Peter Nicol
+47,2,1998, Ahmed Barada
+48,3,2017, Ali Farag
+49,3,2018, Simon Rösner
+50,3,2019, Karim Abdel Gawad
+51,3,2014, Nick Matthew
+52,3,2015, Nick Matthew
+53,3,2016, Grégory Gaultier
+54,3,2011, Grégory Gaultier
+55,3,2012, Grégory Gaultier
+56,3,2013, Nick Matthew
+57,3,2008, Ramy Ashour
+58,3,2009, Amr Shabana
+59,3,2010, Karim Darwish
+60,3,2005, Anthony Ricketts
+61,3,2006, Thierry Lincou
+62,3,2007, Grégory Gaultier
+63,3,2002, David Palmer
+64,3,2003, David Palmer
+65,3,2004, Peter Nicol
+66,3,1999, Ahmed Barada
+67,3,2000, Simon Parke
+68,3,2001, Jonathon Power
+69,3,1996, Peter Nicol
+70,3,1997, Jonathon Power
+71,3,1998, Jonathon Power
+72,4,2017, Karim Abdel Gawad
+73,4,2018, Tarek Momen
+74,4,2019, Tarek Momen
+75,4,2014, Amr Shabana
+76,4,2015, Omar Mosaad
+77,4,2016, Nick Matthew
+78,4,2011, Ramy Ashour
+79,4,2012, Ramy Ashour
+80,4,2013, Mohamed El Shorbagy
+81,4,2008, Grégory Gaultier
+82,4,2009, Nick Matthew
+83,4,2010, Grégory Gaultier
+84,4,2005, David Palmer
+85,4,2006, Grégory Gaultier
+86,4,2007, David Palmer
+87,4,2002, Stewart Boswell
+88,4,2003, Jonathon Power
+89,4,2004, David Palmer
+90,4,1999, Paul Johnson
+91,4,2000, David Evans
+92,4,2001, John White
+93,4,1996, Chris Walker
+94,4,1997, Rodney Eyles
+95,4,1998, Paul Johnson
+96,5,2017, Marwan El Shorbagy
+97,5,2018, Marwan El Shorbagy
+98,5,2019, Paul Coll
+99,5,2014, Ramy Ashour
+100,5,2015, Miguel Ángel Rodríguez
+101,5,2016, Ramy Ashour
+102,5,2011, Karim Darwish
+103,5,2012, Peter Barker
+104,5,2013, James Willstrop
+105,5,2008, James Willstrop
+106,5,2009, Ramy Ashour
+107,5,2010, James Willstrop
+108,5,2005, Lee Beachill
+109,5,2006, Nick Matthew
+110,5,2007, Nick Matthew
+111,5,2002, John White
+112,5,2003, Thierry Lincou
+113,5,2004, Amr Shabana
+114,5,1999, Anthony Hill
+115,5,2000, Ahmed Barada
+116,5,2001, Thierry Lincou
+117,5,1996, Brett Martin
+118,5,1997, Simon Parke
+119,5,1998, Martin Heath
+120,6,2017, Nick Matthew
+121,6,2018, Miguel Ángel Rodríguez
+122,6,2019, Simon Rösner
+123,6,2014, Peter Barker
+124,6,2015, Ramy Ashour
+125,6,2016, Marwan El Shorbagy
+126,6,2011, Amr Shabana
+127,6,2012, Mohamed El Shorbagy
+128,6,2013, Karim Darwish
+129,6,2008, David Palmer
+130,6,2009, James Willstrop
+131,6,2010, Amr Shabana
+132,6,2005, Jonathon Power
+133,6,2006, Anthony Ricketts
+134,6,2007, James Willstrop
+135,6,2002, Thierry Lincou
+136,6,2003, Anthony Ricketts
+137,6,2004, John White
+138,6,1999, Martin Heath
+139,6,2000, Martin Heath
+140,6,2001, Stewart Boswell
+141,6,1996, Del Harris
+142,6,1997, Del Harris
+143,6,1998, Dan Jenson
+144,7,2017, Tarek Momen
+145,7,2018, Paul Coll
+146,7,2019, Diego Elias
+147,7,2014, Borja Golán
+148,7,2015, Simon Rösner
+149,7,2016, Ali Farag
+150,7,2011, Peter Barker
+151,7,2012, Karim Darwish
+152,7,2013, Borja Golán
+153,7,2008, Thierry Lincou
+154,7,2009, Peter Barker
+155,7,2010, Thierry Lincou
+156,7,2005, Amr Shabana
+157,7,2006, Ramy Ashour
+158,7,2007, Thierry Lincou
+159,7,2002, Anthony Ricketts
+160,7,2003, Karim Darwish
+161,7,2004, Nick Matthew
+162,7,1999, Stefan Casteleyn
+163,7,2000, Paul Johnson
+164,7,2001, Ong Beng Hee
+165,7,1996, Craig Rowland
+166,7,1997, Ahmed Barada
+167,7,1998, Rodney Eyles
+168,8,2017, Paul Coll
+169,8,2018, Grégory Gaultier
+170,8,2019, Karim Abdel Gawad
+171,8,2014, James Willstrop
+172,8,2015, Karim Abdel Gawad
+173,8,2016, Omar Mosaad
+174,8,2011, Mohamed El Shorbagy
+175,8,2012, Omar Mosaad
+176,8,2013, Peter Barker
+177,8,2008, Wael El Hindi
+178,8,2009, David Palmer
+179,8,2010, Peter Barker
+180,8,2005, Peter Nicol
+181,8,2006, James Willstrop
+182,8,2007, Karim Darwish
+183,8,2002, Ong Beng Hee
+184,8,2003, Ong Beng Hee
+185,8,2004, Karim Darwish
+186,8,1999, Simon Parke
+187,8,2000, David Palmer
+188,8,2001, Mark Chaloner
+189,8,1996, Mark Chaloner
+190,8,1997, Anthony Hill
+191,8,1998, Jansher Khan
+192,9,2017, Simon Rösner
+193,9,2018, Karim Abdel Gawad
+194,9,2019, Marwan El Shorbagy
+195,9,2014, Tarek Momen
+196,9,2015, Mathieu Castagnet
+197,9,2016, Mathieu Castagnet
+198,9,2011, David Palmer
+199,9,2012, Amr Shabana
+200,9,2013, Amr Shabana
+201,9,2008, Peter Barker
+202,9,2009, Thierry Lincou
+203,9,2010, Laurens Jan Anjema
+204,9,2005, John White
+205,9,2006, Karim Darwish
+206,9,2007, Wael El Hindi
+207,9,2002, Lee Beachill
+208,9,2003, Lee Beachill
+209,9,2004, Jonathon Power
+210,9,1999, Alex Gough
+211,9,2000, Alex Gough
+212,9,2001, Paul Price
+213,9,1996, Anthony Hill
+214,9,1997, Brett Martin
+215,9,1998, Simon Parke
+216,10,2017, James Willstrop
+217,10,2018, Mohamed Abouelghar
+218,10,2019, Miguel Ángel Rodríguez
+219,10,2014, Simon Rösner
+220,10,2015, Tarek Momen
+221,10,2016, Simon Rösner
+222,10,2011, Mohd Azlan Iskandar
+223,10,2012, Daryl Selby
+224,10,2013, Daryl Selby
+225,10,2008, Nick Matthew
+226,10,2009, Wael El Hindi
+227,10,2010, Mohamed El Shorbagy
+228,10,2005, Nick Matthew
+229,10,2006, Lee Beachill
+230,10,2007, John White
+231,10,2002, Mark Chaloner
+232,10,2003, Grégory Gaultier
+233,10,2004, Grégory Gaultier
+234,10,1999, John White
+235,10,2000, Paul Price
+236,10,2001, David Evans
+237,10,1996, Simon Parke
+238,10,1997, Chris Walker
+239,10,1998, Derek Ryan
