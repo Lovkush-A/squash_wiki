@@ -1,241 +1,271 @@
 ,rank,year,player
-0,1,2015, Raneem El Weleily
-1,1,2016, Nour El Sherbini
-2,1,2017, Nour El Sherbini
-3,1,2012, Nicol David
-4,1,2013, Nicol David
-5,1,2014, Nicol David
-6,1,2009, Nicol David
-7,1,2010, Nicol David
-8,1,2011, Nicol David
-9,1,2006, Nicol David
-10,1,2007, Nicol David
-11,1,2008, Nicol David
-12,1,2003, Carol Owens
-13,1,2004, Rachael Grinham
-14,1,2005, Vanessa Atkinson
-15,1,2000, Leilani Rorani
-16,1,2001, Sarah Fitz-Gerald
-17,1,2002, Sarah Fitz-Gerald
-18,1,1997, Sarah Fitz-Gerald
-19,1,1998, Michelle Martin
-20,1,1999, Leilani Rorani
-21,1,1994, Michelle Martin
-22,1,1995, Michelle Martin
-23,1,1996, Sarah Fitz-Gerald
-24,2,2015, Laura Massaro
-25,2,2016, Raneem El Weleily
-26,2,2017, Raneem El Weleily
-27,2,2012, Raneem El Weleily
-28,2,2013, Laura Massaro
-29,2,2014, Laura Massaro
-30,2,2009, Jenny Duncalf
-31,2,2010, Jenny Duncalf
-32,2,2011, Jenny Duncalf
-33,2,2006, Rachael Grinham
-34,2,2007, Natalie Grinham
-35,2,2008, Natalie Grinham
-36,2,2003, Cassie Jackman
-37,2,2004, Cassie Jackman
-38,2,2005, Rachael Grinham
-39,2,2000, Carol Owens
-40,2,2001, Leilani Rorani
-41,2,2002, Carol Owens
-42,2,1997, Michelle Martin
-43,2,1998, Sarah Fitz-Gerald
-44,2,1999, Carol Owens
-45,2,1994, Suzanne Horner
-46,2,1995, Sarah Fitz-Gerald
-47,2,1996, Michelle Martin
-48,3,2015, Nicol David
-49,3,2016, Nouran Gohar
-50,3,2017, Camille Serme
-51,3,2012, Laura Massaro
-52,3,2013, Raneem El Weleily
-53,3,2014, Raneem El Weleily
-54,3,2009, Natalie Grinham
-55,3,2010, Alison Waters
-56,3,2011, Laura Massaro
-57,3,2006, Vanessa Atkinson
-58,3,2007, Rachael Grinham
-59,3,2008, Rachael Grinham
-60,3,2003, Rachael Grinham
-61,3,2004, Vanessa Atkinson
-62,3,2005, Nicol David
-63,3,2000, Linda Elriani
-64,3,2001, Carol Owens
-65,3,2002, Natalie Grainger
-66,3,1997, Cassie Jackman
-67,3,1998, Cassie Jackman
-68,3,1999, Linda Elriani
-69,3,1994, Cassie Jackman
-70,3,1995, Liz Irving
-71,3,1996, Cassie Jackman
-72,4,2015, Camille Serme
-73,4,2016, Laura Massaro
-74,4,2017, Laura Massaro
-75,4,2012, Alison Waters
-76,4,2013, Alison Waters
-77,4,2014, Nour El Sherbini
-78,4,2009, Rachael Grinham
-79,4,2010, Omneya Abdel Kawy
-80,4,2011, Madeline Perry
-81,4,2006, Natalie Grinham
-82,4,2007, Natalie Grainger
-83,4,2008, Natalie Grainger
-84,4,2003, Natalie Grinham
-85,4,2004, Natalie Grainger
-86,4,2005, Natalie Grinham
-87,4,2000, Sarah Fitz-Gerald
-88,4,2001, Cassie Jackman
-89,4,2002, Linda Elriani
-90,4,1997, Sue Wright
-91,4,1998, Sue Wright
-92,4,1999, Sarah Fitz-Gerald
-93,4,1994, Liz Irving
-94,4,1995, Suzanne Horner
-95,4,1996, Suzanne Horner
-96,5,2015, Omneya Abdel Kawy
-97,5,2016, Camille Serme
-98,5,2017, Nouran Gohar
-99,5,2012, Joelle King
-100,5,2013, Camille Serme
-101,5,2014, Alison Waters
-102,5,2009, Natalie Grainger
-103,5,2010, Rachael Grinham
-104,5,2011, Kasey Brown
-105,5,2006, Tania Bailey
-106,5,2007, Tania Bailey
-107,5,2008, Alison Waters
-108,5,2003, Natalie Grainger
-109,5,2004, Natalie Grinham
-110,5,2005, Vicky Botwright
-111,5,2000, Tania Bailey
-112,5,2001, Fiona Geaves
-113,5,2002, Tania Bailey
-114,5,1997, Carol Owens
-115,5,1998, Suzanne Horner
-116,5,1999, Tania Bailey
-117,5,1994, Sarah Fitz-Gerald
-118,5,1995, Carol Owens
-119,5,1996, Sue Wright
-120,6,2015, Nour El Sherbini
-121,6,2016, Nicol David
-122,6,2017, Nicol David
-123,6,2012, Nour El Sherbini
-124,6,2013, Joelle King
-125,6,2014, Camille Serme
-126,6,2009, Alison Waters
-127,6,2010, Madeline Perry
-128,6,2011, Rachael Grinham
-129,6,2006, Madeline Perry
-130,6,2007, Vicky Botwright
-131,6,2008, Jenny Duncalf
-132,6,2003, Linda Elriani
-133,6,2004, Nicol David
-134,6,2005, Linda Elriani
-135,6,2000, Natalie Grainger
-136,6,2001, Linda Elriani
-137,6,2002, Rachael Grinham
-138,6,1997, Sabine Schoene
-139,6,1998, Linda Elriani
-140,6,1999, Natalie Grainger
-141,6,1994, Carol Owens
-142,6,1995, Cassie Jackman
-143,6,1996, Liz Irving
-144,7,2015, Nour El Tayeb
-145,7,2016, Amanda Sobhy
-146,7,2017, Sarah-Jane Perry
-147,7,2012, Low Wee Wern
-148,7,2013, Jenny Duncalf
-149,7,2014, Low Wee Wern
-150,7,2009, Omneya Abdel Kawy
-151,7,2010, Kasey Brown
-152,7,2011, Raneem El Weleily
-153,7,2006, Natalie Grainger
-154,7,2007, Jenny Duncalf
-155,7,2008, Omneya Abdel Kawy
-156,7,2003, Vanessa Atkinson
-157,7,2004, Linda Elriani
-158,7,2005, Natalie Grainger
-159,7,2000, Suzanne Horner
-160,7,2001, Stephanie Brind
-161,7,2002, Vanessa Atkinson
-162,7,1997, Suzanne Horner
-163,7,1998, Leilani Rorani
-164,7,1999, Suzanne Horner
-165,7,1994, Fiona Geaves
-166,7,1995, Sabine Schoene
-167,7,1996, Carol Owens
-168,8,2015, Alison Waters
-169,8,2016, Omneya Abdel Kawy
-170,8,2017, Nour El Tayeb
-171,8,2012, Annie Au
-172,8,2013, Low Wee Wern
-173,8,2014, Nour El Tayeb
-174,8,2009, Madeline Perry
-175,8,2010, Vanessa Atkinson
-176,8,2011, Annie Au
-177,8,2006, Vicky Botwright
-178,8,2007, Vanessa Atkinson
-179,8,2008, Laura Lengthorn-Massaro
-180,8,2003, Rebecca Macree
-181,8,2004, Fiona Geaves
-182,8,2005, Jenny Duncalf
-183,8,2000, Cassie Jackman
-184,8,2001, Rachael Grinham
-185,8,2002, Cassie Jackman
-186,8,1997, Liz Irving
-187,8,1998, Carol Owens
-188,8,1999, Cassie Jackman
-189,8,1994, Sue Wright
-190,8,1995, Fiona Geaves
-191,8,1996, Sabine Schoene
-192,9,2015, Nouran Gohar
-193,9,2016, Alison Waters
-194,9,2017, Joelle King
-195,9,2012, Madeline Perry
-196,9,2013, Natalie Grinham
-197,9,2014, Annie Au
-198,9,2009, Laura Lengthorn-Massaro
-199,9,2010, Laura Massaro
-200,9,2011, Natalie Grinham
-201,9,2006, Jenny Duncalf
-202,9,2007, Omneya Abdel Kawy
-203,9,2008, Madeline Perry
-204,9,2003, Vicky Botwright
-205,9,2004, Omneya Abdel Kawy
-206,9,2005, Tania Bailey
-207,9,2000, Fiona Geaves
-208,9,2001, Suzanne Horner
-209,9,2002, Rebecca Macree
-210,9,1997, Linda Elriani
-211,9,1998, Sabine Schoene
-212,9,1999, Fiona Geaves
-213,9,1994, Claire Nitch
-214,9,1995, Jane Martin
-215,9,1996, Claire Nitch
-216,10,2015, Annie Au
-217,10,2016, Joelle King
-218,10,2017, Alison Waters
-219,10,2012, Dipika Pallikal
-220,10,2013, Madeline Perry
-221,10,2014, Omneya Abdel Kawy
-222,10,2009, Vanessa Atkinson
-223,10,2010, Camille Serme
-224,10,2011, Camille Serme
-225,10,2006, Omneya Abdel Kawy
-226,10,2007, Shelley Kitchen
-227,10,2008, Shelley Kitchen
-228,10,2003, Stephanie Brind
-229,10,2004, Rebecca Macree
-230,10,2005, Omneya Abdel Kawy
-231,10,2000, Stephanie Brind
-232,10,2001, Rebecca Macree
-233,10,2002, Fiona Geaves
-234,10,1997, Fiona Geaves
-235,10,1998, Liz Irving
-236,10,1999, Stephanie Brind
-237,10,1994, Jane Martin
-238,10,1995, Claire Nitch
-239,10,1996, Fiona Geaves
+0,1,2018, Raneem El Weleily
+1,1,2019, Raneem El Weleily
+2,1,2020, Nour El Sherbini
+3,1,2015, Raneem El Weleily
+4,1,2016, Nour El Sherbini
+5,1,2017, Nour El Sherbini
+6,1,2012, Nicol David
+7,1,2013, Nicol David
+8,1,2014, Nicol David
+9,1,2009, Nicol David
+10,1,2010, Nicol David
+11,1,2011, Nicol David
+12,1,2006, Nicol David
+13,1,2007, Nicol David
+14,1,2008, Nicol David
+15,1,2003, Carol Owens
+16,1,2004, Rachael Grinham
+17,1,2005, Vanessa Atkinson
+18,1,2000, Leilani Rorani
+19,1,2001, Sarah Fitz-Gerald
+20,1,2002, Sarah Fitz-Gerald
+21,1,1997, Sarah Fitz-Gerald
+22,1,1998, Michelle Martin
+23,1,1999, Leilani Rorani
+24,1,1994, Michelle Martin
+25,1,1995, Michelle Martin
+26,1,1996, Sarah Fitz-Gerald
+27,2,2018, Nour El Sherbini
+28,2,2019, Nour El Sherbini
+29,2,2020, Nouran Gohar
+30,2,2015, Laura Massaro
+31,2,2016, Raneem El Weleily
+32,2,2017, Raneem El Weleily
+33,2,2012, Raneem El Weleily
+34,2,2013, Laura Massaro
+35,2,2014, Laura Massaro
+36,2,2009, Jenny Duncalf
+37,2,2010, Jenny Duncalf
+38,2,2011, Jenny Duncalf
+39,2,2006, Rachael Grinham
+40,2,2007, Natalie Grinham
+41,2,2008, Natalie Grinham
+42,2,2003, Cassie Jackman
+43,2,2004, Cassie Jackman
+44,2,2005, Rachael Grinham
+45,2,2000, Carol Owens
+46,2,2001, Leilani Rorani
+47,2,2002, Carol Owens
+48,2,1997, Michelle Martin
+49,2,1998, Sarah Fitz-Gerald
+50,2,1999, Carol Owens
+51,2,1994, Suzanne Horner
+52,2,1995, Sarah Fitz-Gerald
+53,2,1996, Michelle Martin
+54,3,2018, Nour El Tayeb
+55,3,2019, Nouran Gohar
+56,3,2020, Nour El Tayeb
+57,3,2015, Nicol David
+58,3,2016, Nouran Gohar
+59,3,2017, Camille Serme
+60,3,2012, Laura Massaro
+61,3,2013, Raneem El Weleily
+62,3,2014, Raneem El Weleily
+63,3,2009, Natalie Grinham
+64,3,2010, Alison Waters
+65,3,2011, Laura Massaro
+66,3,2006, Vanessa Atkinson
+67,3,2007, Rachael Grinham
+68,3,2008, Rachael Grinham
+69,3,2003, Rachael Grinham
+70,3,2004, Vanessa Atkinson
+71,3,2005, Nicol David
+72,3,2000, Linda Elriani
+73,3,2001, Carol Owens
+74,3,2002, Natalie Grainger
+75,3,1997, Cassie Jackman
+76,3,1998, Cassie Jackman
+77,3,1999, Linda Elriani
+78,3,1994, Cassie Jackman
+79,3,1995, Liz Irving
+80,3,1996, Cassie Jackman
+81,4,2018, Joelle King
+82,4,2019, Nour El Tayeb
+83,4,2020, Camille Serme
+84,4,2015, Camille Serme
+85,4,2016, Laura Massaro
+86,4,2017, Laura Massaro
+87,4,2012, Alison Waters
+88,4,2013, Alison Waters
+89,4,2014, Nour El Sherbini
+90,4,2009, Rachael Grinham
+91,4,2010, Omneya Abdel Kawy
+92,4,2011, Madeline Perry
+93,4,2006, Natalie Grinham
+94,4,2007, Natalie Grainger
+95,4,2008, Natalie Grainger
+96,4,2003, Natalie Grinham
+97,4,2004, Natalie Grainger
+98,4,2005, Natalie Grinham
+99,4,2000, Sarah Fitz-Gerald
+100,4,2001, Cassie Jackman
+101,4,2002, Linda Elriani
+102,4,1997, Sue Wright
+103,4,1998, Sue Wright
+104,4,1999, Sarah Fitz-Gerald
+105,4,1994, Liz Irving
+106,4,1995, Suzanne Horner
+107,4,1996, Suzanne Horner
+108,5,2018, Camille Serme
+109,5,2019, Camille Serme
+110,5,2020, Hania El Hammamy
+111,5,2015, Omneya Abdel Kawy
+112,5,2016, Camille Serme
+113,5,2017, Nouran Gohar
+114,5,2012, Joelle King
+115,5,2013, Camille Serme
+116,5,2014, Alison Waters
+117,5,2009, Natalie Grainger
+118,5,2010, Rachael Grinham
+119,5,2011, Kasey Brown
+120,5,2006, Tania Bailey
+121,5,2007, Tania Bailey
+122,5,2008, Alison Waters
+123,5,2003, Natalie Grainger
+124,5,2004, Natalie Grinham
+125,5,2005, Vicky Botwright
+126,5,2000, Tania Bailey
+127,5,2001, Fiona Geaves
+128,5,2002, Tania Bailey
+129,5,1997, Carol Owens
+130,5,1998, Suzanne Horner
+131,5,1999, Tania Bailey
+132,5,1994, Sarah Fitz-Gerald
+133,5,1995, Carol Owens
+134,5,1996, Sue Wright
+135,6,2018, Sarah-Jane Perry
+136,6,2019, Joelle King
+137,6,2020, Sarah-Jane Perry
+138,6,2015, Nour El Sherbini
+139,6,2016, Nicol David
+140,6,2017, Nicol David
+141,6,2012, Nour El Sherbini
+142,6,2013, Joelle King
+143,6,2014, Camille Serme
+144,6,2009, Alison Waters
+145,6,2010, Madeline Perry
+146,6,2011, Rachael Grinham
+147,6,2006, Madeline Perry
+148,6,2007, Vicky Botwright
+149,6,2008, Jenny Duncalf
+150,6,2003, Linda Elriani
+151,6,2004, Nicol David
+152,6,2005, Linda Elriani
+153,6,2000, Natalie Grainger
+154,6,2001, Linda Elriani
+155,6,2002, Rachael Grinham
+156,6,1997, Sabine Schoene
+157,6,1998, Linda Elriani
+158,6,1999, Natalie Grainger
+159,6,1994, Carol Owens
+160,6,1995, Cassie Jackman
+161,6,1996, Liz Irving
+162,7,2018, Nouran Gohar
+163,7,2019, Amanda Sobhy
+164,7,2020, Amanda Sobhy
+165,7,2015, Nour El Tayeb
+166,7,2016, Amanda Sobhy
+167,7,2017, Sarah-Jane Perry
+168,7,2012, Low Wee Wern
+169,7,2013, Jenny Duncalf
+170,7,2014, Low Wee Wern
+171,7,2009, Omneya Abdel Kawy
+172,7,2010, Kasey Brown
+173,7,2011, Raneem El Weleily
+174,7,2006, Natalie Grainger
+175,7,2007, Jenny Duncalf
+176,7,2008, Omneya Abdel Kawy
+177,7,2003, Vanessa Atkinson
+178,7,2004, Linda Elriani
+179,7,2005, Natalie Grainger
+180,7,2000, Suzanne Horner
+181,7,2001, Stephanie Brind
+182,7,2002, Vanessa Atkinson
+183,7,1997, Suzanne Horner
+184,7,1998, Leilani Rorani
+185,7,1999, Suzanne Horner
+186,7,1994, Fiona Geaves
+187,7,1995, Sabine Schoene
+188,7,1996, Carol Owens
+189,8,2018, Laura Massaro
+190,8,2019, Sarah-Jane Perry
+191,8,2020, Joelle King
+192,8,2015, Alison Waters
+193,8,2016, Omneya Abdel Kawy
+194,8,2017, Nour El Tayeb
+195,8,2012, Annie Au
+196,8,2013, Low Wee Wern
+197,8,2014, Nour El Tayeb
+198,8,2009, Madeline Perry
+199,8,2010, Vanessa Atkinson
+200,8,2011, Annie Au
+201,8,2006, Vicky Botwright
+202,8,2007, Vanessa Atkinson
+203,8,2008, Laura Lengthorn-Massaro
+204,8,2003, Rebecca Macree
+205,8,2004, Fiona Geaves
+206,8,2005, Jenny Duncalf
+207,8,2000, Cassie Jackman
+208,8,2001, Rachael Grinham
+209,8,2002, Cassie Jackman
+210,8,1997, Liz Irving
+211,8,1998, Carol Owens
+212,8,1999, Cassie Jackman
+213,8,1994, Sue Wright
+214,8,1995, Fiona Geaves
+215,8,1996, Sabine Schoene
+216,9,2018, Tesni Evans
+217,9,2019, Tesni Evans
+218,9,2020, Tesni Evans
+219,9,2015, Nouran Gohar
+220,9,2016, Alison Waters
+221,9,2017, Joelle King
+222,9,2012, Madeline Perry
+223,9,2013, Natalie Grinham
+224,9,2014, Annie Au
+225,9,2009, Laura Lengthorn-Massaro
+226,9,2010, Laura Massaro
+227,9,2011, Natalie Grinham
+228,9,2006, Jenny Duncalf
+229,9,2007, Omneya Abdel Kawy
+230,9,2008, Madeline Perry
+231,9,2003, Vicky Botwright
+232,9,2004, Omneya Abdel Kawy
+233,9,2005, Tania Bailey
+234,9,2000, Fiona Geaves
+235,9,2001, Suzanne Horner
+236,9,2002, Rebecca Macree
+237,9,1997, Linda Elriani
+238,9,1998, Sabine Schoene
+239,9,1999, Fiona Geaves
+240,9,1994, Claire Nitch
+241,9,1995, Jane Martin
+242,9,1996, Claire Nitch
+243,10,2018, Alison Waters
+244,10,2019, Hania El Hammamy
+245,10,2020, Salma Hany
+246,10,2015, Annie Au
+247,10,2016, Joelle King
+248,10,2017, Alison Waters
+249,10,2012, Dipika Pallikal
+250,10,2013, Madeline Perry
+251,10,2014, Omneya Abdel Kawy
+252,10,2009, Vanessa Atkinson
+253,10,2010, Camille Serme
+254,10,2011, Camille Serme
+255,10,2006, Omneya Abdel Kawy
+256,10,2007, Shelley Kitchen
+257,10,2008, Shelley Kitchen
+258,10,2003, Stephanie Brind
+259,10,2004, Rebecca Macree
+260,10,2005, Omneya Abdel Kawy
+261,10,2000, Stephanie Brind
+262,10,2001, Rebecca Macree
+263,10,2002, Fiona Geaves
+264,10,1997, Fiona Geaves
+265,10,1998, Liz Irving
+266,10,1999, Stephanie Brind
+267,10,1994, Jane Martin
+268,10,1995, Claire Nitch
+269,10,1996, Fiona Geaves
