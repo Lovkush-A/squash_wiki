@@ -1,4 +1,4 @@
-# Scraping and analysis squash ranking data from wikipedia
+# Scrape and analyse squash ranking data from wikipedia
 
 The primary aim of the project was to learn how to scrape data in python using BeautifulSoup, with secondary aim to see what patterns can be found in the scraped data.
 
