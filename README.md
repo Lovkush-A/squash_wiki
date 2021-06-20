@@ -12,6 +12,9 @@ The questions I looked at along with my answers were:
 * What subgroups of players can be identified?
   * Dimension reduction and clustering reveal three clear clusters: players with mayn years in the top 10/the best players, players who played in late 90s and early 2000s and players who are currently playing
 
+## Blogpost
+I wrote a [short summary blogpost on Medium](https://lovkush.medium.com/the-most-outstanding-male-squash-players-c5f2be2c8036) intended for a general audience.
+
 ## Directory structure
 
 * `environment.yml` - environment file used to create the conda environment for this project
