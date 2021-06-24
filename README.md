@@ -2,6 +2,16 @@
 
 The primary aim of the project was to learn how to scrape data in python using BeautifulSoup, with secondary aim to see what patterns can be found in the scraped data. Due to time restrictions, I only analysed the male dataset.
 
+Contents:
+* Summary of questions and plots
+* Link to Blogpost
+* Directory Structure
+* Missing Values
+* Installation Guide
+* Acknowledgements
+
+## Summary of questions and plots
+
 The questions I looked at along with my answers were:
 
 * Do any players standout?
@@ -12,7 +22,7 @@ The questions I looked at along with my answers were:
 * What subgroups of players can be identified?
   * Dimension reduction and clustering reveal three clear clusters: players with many years in the top 10/the best players, players who played in late 90s and early 2000s and players who are currently playing
   * For interactive Bokeh visuals of these clusters, open the `.html` files in the `plots` directory
-  * For non-interactive plots, see below!
+  * For non-interactive plots, see below. Note these are hard to interpret - the interactive plots are highly recommended
 
 PCA visualisation:
 ![PCA visualisation of clusters](https://github.com/Lovkush-A/squash_wiki/blob/main/plots/pca.png)
