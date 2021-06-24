@@ -11,11 +11,16 @@ The questions I looked at along with my answers were:
   * Turns out there is a simple criteria that does the job pretty well: what is the players single best ranking
 * What subgroups of players can be identified?
   * Dimension reduction and clustering reveal three clear clusters: players with many years in the top 10/the best players, players who played in late 90s and early 2000s and players who are currently playing
-  * For interactive Bokeh visuals of these clusters, open the `.html` files in the plots directory
+  * For interactive Bokeh visuals of these clusters, open the `.html` files in the `plots` directory
   * For non-interactive plots, see below!
 
+PCA visualisation:
 ![PCA visualisation of clusters](https://github.com/Lovkush-A/squash_wiki/blob/main/plots/pca.png)
+
+tSNE visualisation:
 ![tsne visualisation of clusters](https://github.com/Lovkush-A/squash_wiki/blob/main/plots/tsne.png)
+
+UMAP visualisation:
 ![UMAP visualisation of clusters](https://github.com/Lovkush-A/squash_wiki/blob/main/plots/umap.png)
 
 ## Blogpost
